@@ -1,0 +1,9 @@
+Para criar um projeto em JAVA
+
+Clone do repositório https://github.com/univas/gradle-javaweb
+
+Altera o setting.gradle
+
+Para rodar a aplicação em WEB
+gradlew jettyRunwar
+gradlew jettyRun
